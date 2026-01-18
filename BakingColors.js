@@ -3,8 +3,8 @@
  * @desc 属于 katebloom6 的专属色库注入脚本
  */
 
-// 指向你同仓库下的 JSON 文件
-const dataUrl = "https://raw.githubusercontent.com/katebloom6/Rewrite/main/%E7%83%98%E7%84%90%E9%A2%9C%E8%89%B2.json";
+// 链接已确认对应你仓库中的英文文件名 BakingColors.json
+const dataUrl = "https://raw.githubusercontent.com/katebloom6/Rewrite/main/BakingColors.json";
 
 if ($request.url.indexOf("daily_color_cards") !== -1) {
     let body = $response.body;
@@ -14,11 +14,12 @@ if ($request.url.indexOf("daily_color_cards") !== -1) {
             if (!error && data) {
                 let bakingData = JSON.parse(data);
                 if (obj.data && Array.isArray(obj.data)) {
-                    // 将你 GitHub 仓库中的 105 个色号注入灵感流
+                    // 将你仓库中的 105 个色号注入灵感流最前方
                     obj.data = bakingData.concat(obj.data);
                 }
                 $done({ body: JSON.stringify(obj) });
             } else {
+                // 如果获取失败，返回原数据防止 App 报错
                 $done({ body });
             }
         });
