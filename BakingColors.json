@@ -1,0 +1,23 @@
+[
+  { "name": "Americolor 经典 01", "color": "[\"#F7E7CE\", \"#DC143C\", \"#808000\", \"#8E4585\", \"#FF003F\"]", "content": "香槟/深红/橄榄/梅紫/电光红", "uuid": "bakery_001", "like_rate": 9.9 },
+  { "name": "Americolor 经典 02", "color": "[\"#FBCEB1\", \"#FFFFF0\", \"#F2BDCD\", \"#EAE3D2\", \"#7FFFD4\"]", "content": "肉粉/象牙白/淡紫/米黄/碧绿", "uuid": "bakery_002", "like_rate": 9.8 },
+  { "name": "Wilton 甜美马卡龙 01", "color": "[\"#FFC0CB\", \"#98FF98\", \"#87CEEB\", \"#E0B0FF\", \"#FFF44F\"]", "content": "粉红/薄荷绿/天蓝/锦葵紫/柠檬黄", "uuid": "bakery_003", "like_rate": 9.7 },
+  { "name": "Wilton 森系配色 02", "color": "[\"#228B22\", \"#556B2F\", \"#A0522D\", \"#F4A460\", \"#FFF8DC\"]", "content": "森林绿/暗橄榄/赭石/沙褐/玉米色", "uuid": "bakery_004", "like_rate": 9.6 },
+  { "name": "Chefmaster 霓虹系列", "color": "[\"#00FFFF\", \"#39FF14\", \"#FF5F1F\", \"#FF6EC7\", \"#B026FF\"]", "content": "霓虹蓝/绿/橙/粉/紫 (高饱和度)", "uuid": "bakery_005", "like_rate": 9.5 },
+  { "name": "Americolor 高级灰调", "color": "[\"#708090\", \"#778899\", \"#B0C4DE\", \"#E6E6FA\", \"#D8BFD8\"]", "content": "板岩灰/影蓝/淡钢蓝/薰衣草/蓟色", "uuid": "bakery_006", "like_rate": 9.4 },
+  { "name": "Wilton 浆果色系", "color": "[\"#800000\", \"#8B0000\", \"#A52A2A\", \"#B22222\", \"#C00000\"]", "content": "栗色/深红/褐红/火砖红/标准红", "uuid": "bakery_007", "like_rate": 9.3 },
+  { "name": "Americolor 暖阳系列", "color": "[\"#FF7F50\", \"#FF4500\", \"#FF8C00\", \"#FFA500\", \"#FFD700\"]", "content": "珊瑚/橙红/深橙/橙色/金黄", "uuid": "bakery_008", "like_rate": 9.2 },
+  { "name": "Americolor 大地系列", "color": "[\"#8B4513\", \"#A0522D\", \"#D2691E\", \"#CD853F\", \"#F4A460\"]", "content": "重马鞍棕/赭石/巧克力/秘鲁色/沙褐", "uuid": "bakery_009", "like_rate": 9.1 },
+  { "name": "Wilton 梦幻湖泊", "color": "[\"#008080\", \"#008B8B\", \"#20B2AA\", \"#48D1CC\", \"#40E0D0\"]", "content": "水鸭色/深青/亮海蓝/中绿松石/绿松石", "uuid": "bakery_010", "like_rate": 9.0 },
+  { "name": "Americolor 复古莫兰迪", "color": "[\"#BDB76B\", \"#8FBC8F\", \"#4682B4\", \"#D2B48C\", \"#BC8F8F\"]", "content": "黄褐/灰绿/钢蓝/茶褐/褐玫瑰", "uuid": "bakery_011", "like_rate": 8.9 },
+  { "name": "Chefmaster 基础彩虹", "color": "[\"#FF0000\", \"#FF7F00\", \"#FFFF00\", \"#00FF00\", \"#0000FF\"]", "content": "标准红/橙/黄/绿/蓝", "uuid": "bakery_012", "like_rate": 8.8 },
+  { "name": "Wilton 优雅紫色", "color": "[\"#4B0082\", \"#800080\", \"#8A2BE2\", \"#9400D3\", \"#9932CC\"]", "content": "靛青/紫色/蓝紫/暗紫/暗兰花紫", "uuid": "bakery_013", "like_rate": 8.7 },
+  { "name": "Americolor 蓝调时光", "color": "[\"#000080\", \"#00008B\", \"#0000CD\", \"#0000FF\", \"#1E90FF\"]", "content": "海军蓝/深蓝/中蓝/纯蓝/道奇蓝", "uuid": "bakery_014", "like_rate": 8.6 },
+  { "name": "Wilton 柔粉樱花", "color": "[\"#FFF0F5\", \"#FFB6C1\", \"#FFC0CB\", \"#FF69B4\", \"#FF1493\"]", "content": "淡紫红/浅粉/粉红/热粉红/深粉红", "uuid": "bakery_015", "like_rate": 8.5 },
+  { "name": "Chefmaster 荧光花园", "color": "[\"#ADFF2F\", \"#7FFF00\", \"#7CFC00\", \"#00FF00\", \"#32CD32\"]", "content": "绿黄/查特酒绿/草坪绿/纯绿/酸橙绿", "uuid": "bakery_016", "like_rate": 8.4 },
+  { "name": "Americolor 巧克力工坊", "color": "[\"#3E2723\", \"#4E342E\", \"#5D4037\", \"#6D4C41\", \"#795548\"]", "content": "极深啡/深咖啡/巧克力色/棕褐色/浅棕", "uuid": "bakery_017", "like_rate": 8.3 },
+  { "name": "Wilton 湛蓝天空", "color": "[\"#E0FFFF\", \"#AFEEEE\", \"#ADD8E6\", \"#B0E0E6\", \"#87CEFA\"]", "content": "轻青色/苍白绿松石/淡蓝/粉蓝/淡天蓝", "uuid": "bakery_018", "like_rate": 8.2 },
+  { "name": "Americolor 暮色系列", "color": "[\"#2C3E50\", \"#34495E\", \"#5D6D7E\", \"#85929E\", \"#ABB2B9\"]", "content": "午夜蓝/深灰蓝/钢灰/冷灰/亮灰", "uuid": "bakery_019", "like_rate": 8.1 },
+  { "name": "Wilton 盛夏果实", "color": "[\"#FFA07A\", \"#FF8C00\", \"#FF4500\", \"#FF6347\", \"#FF0000\"]", "content": "浅珊瑚/深橙/橙红/番茄红/纯红", "uuid": "bakery_020", "like_rate": 8.0 },
+  { "name": "Chefmaster 极地冰川", "color": "[\"#F0FFFF\", \"#F0F8FF\", \"#F5F5F5\", \"#FFFFFF\", \"#ECEFF1\"]", "content": "天蓝色/爱丽丝蓝/白烟色/纯白/蓝灰白", "uuid": "bakery_021", "like_rate": 7.9 }
+]
